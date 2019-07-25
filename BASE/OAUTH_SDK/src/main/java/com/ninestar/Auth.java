@@ -1,4 +1,4 @@
-package com.ninestart;
+package com.ninestar;
 
 import java.io.IOException;
 import java.net.URI;
@@ -175,7 +175,7 @@ public class Auth {
 
 	}
 	
-	public static void main(String[] args) throws URISyntaxException, ClientProtocolException, IOException {
+/*	public static void main(String[] args) throws URISyntaxException, ClientProtocolException, IOException {
 		//http://localhost:8881/ribbon-consumer
 		
 
@@ -201,5 +201,5 @@ public class Auth {
 
 
 	
-	}
+	}*/
 }

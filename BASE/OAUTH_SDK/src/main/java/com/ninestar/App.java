@@ -1,4 +1,4 @@
-package com.ninestart;
+package com.ninestar;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
